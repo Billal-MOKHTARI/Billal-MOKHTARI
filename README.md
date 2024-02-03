@@ -1,6 +1,10 @@
 ## Billal MOKHTARI
 
-I'm Billal MOKHTARI, and I do Machine Learning. I have a great AI toolbox which encompasses PyTorch and other data analysis python libraries. You can reach me at [Billal.MOKHTARI@etu.uca.fr](mailto:Billal.MOKHTARI@etu.uca.fr) or [b_mokhtari@estin.dz](mailto:b_mokhtari@estin.dz).
+Hi there! 👋 I'm Billal MOKHTARI, I do Machine Learning and Deep Learning. I thrive on building intelligent solutions using tools like PyTorch and leveraging my expertise in data analysis and visualization.
+
+### Contact
+- 📧 [Email](mailto:Billal.MOKHTARI@etu.uca.fr) | [b_mokhtari@estin.dz](mailto:b_mokhtari@estin.dz)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/billal-mokhtari-485653232/)
 
 ### Skills and Experience
 - 🤖 Machine Learning & Deep Learning
@@ -9,5 +13,8 @@ I'm Billal MOKHTARI, and I do Machine Learning. I have a great AI toolbox which 
 - 💻 Programming : Algorithms & Data Structures
 - 🧮 Mathematical Modeling 
 
+### GitHub Stats
+
+Check out my GitHub stats and explore some of my latest projects!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billal-MOKHTARI&layout=compact&theme=dark)
