@@ -1,6 +1,7 @@
 ## Billal MOKHTARI
 
-Hi there! 👋 I'm Billal MOKHTARI, I do Machine Learning and Deep Learning. I thrive on building intelligent solutions using tools like PyTorch and leveraging my expertise in data analysis and visualization.
+
+Hello there! 👋 I'm Billal MOKHTARI, and I am working on Machine Learning (ML) and Deep Learning (DL) projects. My passion lies in crafting intelligent solutions through the utilization of tools such as PyTorch, coupled with my proficiency in data analysis and visualization. I am seeking collaborations in these fields.
 
 ### Contact
 - 📧 [Billal.MOKHTARI@etu.uca.fr](mailto:Billal.MOKHTARI@etu.uca.fr) | [b_mokhtari@estin.dz](mailto:b_mokhtari@estin.dz)
