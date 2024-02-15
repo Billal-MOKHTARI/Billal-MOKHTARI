@@ -12,7 +12,8 @@ Hello there! 👋 I'm Billal MOKHTARI, and I am working on Machine Learning (ML)
 - 📊 Data Analysis 
 - 📈 Data Visualization
 - 💻 Programming : Algorithms & Data Structures
-- 🧮 Mathematical Modeling 
+- 🧮 Mathematical Modeling
+- ⚛️ Quantum Computing & Quantum Algorithms
 
 ### GitHub Stats
 
