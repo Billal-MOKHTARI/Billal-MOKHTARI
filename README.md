@@ -1,7 +1,20 @@
 ## Billal MOKHTARI
 
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;">
+      <p>I'm Billal MOKHTARI, and I am working on Machine Learning (ML) and Deep Learning (DL) projects. My passion lies in crafting intelligent solutions, coupled with my proficiency in data analysis and visualization. I am seeking collaborations in these fields.</p>
+    </td>
+    <td style="border: none;">
+      <img src="https://github.com/Billal-MOKHTARI/Billal-MOKHTARI/assets/100322125/ed3c1ee7-195c-4d4a-8379-2c9a32fc195a" alt="faceman">
+    </td>
+  </tr>
+</table>
 
-Hello there! 👋 I'm Billal MOKHTARI, and I am working on Machine Learning (ML) and Deep Learning (DL) projects. My passion lies in crafting intelligent solutions, coupled with my proficiency in data analysis and visualization. I am seeking collaborations in these fields.
+
+
+
+
 
 ### Contact
 - 📧 [Billal.MOKHTARI@etu.uca.fr](mailto:Billal.MOKHTARI@etu.uca.fr) | [b_mokhtari@estin.dz](mailto:b_mokhtari@estin.dz)
