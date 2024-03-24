@@ -32,7 +32,7 @@
 
 Check out my GitHub stats and explore some of my latest projects!
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Billal-MOKHTARI&layout=compact&theme=dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Billal-MOKHTARI&layout=compact&theme=dark" alt="Top Langs" height="170"> <img src="https://github-readme-stats.vercel.app/api?username=Billal-MOKHTARI&show_icons=true&theme=dark" alt="GitHub stats" height="170">
 
 <meta name="google-site-verification" content="-vTM-RFIUNbDS50zh5erkinP8YJkRUCldl-JDD4aEj4" />
 
