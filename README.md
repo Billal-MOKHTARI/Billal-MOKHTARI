@@ -1,5 +1,5 @@
 ## Billal MOKHTARI
-![github profile poster](https://github.com/Billal-MOKHTARI/Billal-MOKHTARI/assets/100322125/35d91d75-8e82-4f62-afba-db0f27795511)
+![Component 2 (1)](https://github.com/Billal-MOKHTARI/Billal-MOKHTARI/assets/100322125/fc13264c-5232-4534-b172-e27b46502f45)
 
 
 <table style="border-collapse: collapse;">
